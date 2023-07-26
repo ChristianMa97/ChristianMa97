@@ -1,20 +1,22 @@
-- 👋 Hi, I’m Chris,   
-    a computer science student from germany,  
-    actually doing a semester abroad in Bangkok.
-- 👀 I’m interested in
-    - Backend
-    - Monitoring
-    - GameDev
-    - 3D Modelling
-- 🌱 I’m currently learning  
-    Unity & 3D Modelling
-- 💞️ I’m looking to collaborate on
-    - social projects
-    - freelance jobs
-    - GameDev
-- 📫 How to reach me  
-    ch.martin97@gmail.com  
-    Discord: Chris_#3878
+- 👋 Hi, I’m Chris,<br>
+    a computer science graduate from Germany,<br>
+    with experience in infrastructure and a passion for technology.
+- 👀 I’m interested in<br>
+    Git<br>
+    Jenkins<br>
+    Spring<br>
+    Backend Development<br>
+    Monitoring<br>
+    GameDev<br>
+    3D Modelling<br>
+- 🌱 I’m currently learning<br>
+    Advanced topics in Jenkins and Spring for scalable infrastructures.<br>
+- 💞️ I’m looking to collaborate on<br>
+    Open-source infrastructure projects<br>
+    Freelance jobs related to infrastructure development<br>
+    GameDev projects that involve backend and infrastructure challenges<br>
+- 📫 How to reach me<br>
+    ch.martin97@gmail.com
 
 <!---
 ChristianMa97/ChristianMa97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
